@@ -3,3 +3,6 @@ build/
 dist/
 
 useless_ssreeramj.egg-info
+
+__pycache__/
+.vscode/

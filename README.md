@@ -1,3 +1,3 @@
 # Useless Python package
 
-This is pretty much a useless python package.
+This is definitely the most useless python package.

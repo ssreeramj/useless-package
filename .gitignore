@@ -2,7 +2,7 @@ env/
 build/
 dist/
 
-useless_ssreeramj.egg-info
+mup.egg-info
 
 __pycache__/
 .vscode/
